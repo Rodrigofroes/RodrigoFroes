@@ -5,9 +5,9 @@
 - 💬 Estou sempre buscando entender um pouco de tudo, mas focando nos objetivos
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isaukywhite&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=isaukywhite&layout=compact&langs_count=8&theme=algolia&v=1"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=isaukywhite&theme=algolia" alt="mystreak"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rodrigofroes&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rodrigofroes&layout=compact&langs_count=8&theme=algolia&v=1"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Rodrigofroes&theme=algolia" alt="mystreak"/>
 </div>
 
 ## Principais linguagens
