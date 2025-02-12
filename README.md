@@ -1,6 +1,6 @@
-# Olá! Eu sou o Isac Martins
+# Olá! Eu sou o Rodrigo Froes
 
-- 🔭 Atualmente trabalho com Flutter/Dart e Python
+- 🔭 Atualmente trabalho com Next.js/React.js e .NET
 - 🌱 Estudando boas práticas e metodologiass agéis
 - 💬 Estou sempre buscando entender um pouco de tudo, mas focando nos objetivos
 
@@ -13,19 +13,16 @@
 ## Principais linguagens
 
 <div style="display: inline_block">
-  <img height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Isac-Dart"/>
-  <img height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Isac-Flutter"/>
-  <img height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Isac-Python"/>
+  <img height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="Rodrigo-React"/>
+  <img height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Rodrigo-Next"/>
+  <img height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="Rodrigo-Dotnet"/>
 </div>
 
 ### Bora conversar?
 
-<div style="display: inline_block">
-  <a href="https://www.linkedin.com/in/isacmartins" target="_blank" alt="Isac-Linkedin"><img target="_blank" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:isacmartins012@gmail.com" target="_blank" alt="Isac-Email"><img target="_blank" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://discordapp.com/users/Isac%20Martins#4516" target="_blank" alt="Isac-Discord"><img target="_blank" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="https://api.whatsapp.com/send?phone=5532999644257&text=Ol%C3%A1,%20vim%20pelo%20github" target="_blank" alt="Isac-Whatsapp"><img target="_blank" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-  <a href="https://t.me/IsacMartins012" target="_blank" alt="Isac-Telegram"><img target="_blank" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="mailto:rodrigooliveirafroesdev@gmail.com" target="_blank" alt="Isac-Email"><img target="_blank" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://discordapp.com/users/oliveira_froes" target="_blank" alt="Isac-Discord"><img target="_blank" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://api.whatsapp.com/send?phone=5518981805860&text=Ol%C3%A1,%20vim%20pelo%20github" target="_blank" alt="Isac-Whatsapp"><img target="_blank" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </div>
 
 ###
